@@ -1,11 +1,12 @@
 pub fn hello() -> String {
-    todo!();
+    "Hello Rust".to_string()
 }
 
 pub fn greet(name: &str) -> String {
-    todo!();
+    "Hello ".to_string() + name
 }
 
 pub fn append(mut s: String) -> String {
-    todo!();
+    s += "!";
+    return s;
 }
