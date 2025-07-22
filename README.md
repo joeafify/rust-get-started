@@ -1,4 +1,4 @@
-# Rust Crash Course
+# Rust Crash Course 😁
 
 [contributors-shield]: https://img.shields.io/github/contributors/cyfrin/rust-crash-course.svg?style=for-the-badge
 [contributors-url]: https://github.com/cyfrin/rust-crash-course/graphs/contributors
